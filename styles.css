@@ -21,13 +21,14 @@ header {
 
 .center {
     font-weight: bold;
+    margin-right: 50px;
 }
 
 
 #time {
     
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 13px;
     margin-left: 15vh;
     font-weight: 600;
     color: gray;
